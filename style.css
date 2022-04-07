@@ -31,6 +31,7 @@
 
 body{
     background: var(--dark);
+    max-width: 1500px;
 }
 
 nav{
